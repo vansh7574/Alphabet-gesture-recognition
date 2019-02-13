@@ -1,1 +1,1 @@
-# deaf-mute-gesture-recognition
+# Alphabet-gesture-recognition
